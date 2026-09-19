@@ -36,7 +36,7 @@
 🌞 Can be used as a mini night-light concept  
 🧑‍🏫 Useful for basic electronics exhibitions and craft projects
 
-## CIRCUIT DIADRAM:  ![][image1]
+## CIRCUIT DIADRAM:  ![DIAGRAM](DIAGRAM.jpeg)
 
 - [ ] ### The coin-cell battery supplies electrical energy to the LED. When the circuit is connected properly, current flows through the LED and it glows. The LED converts the electrical energy from the battery into light energy. Thus, the simple circuit produces a glowing light effect.     
 
