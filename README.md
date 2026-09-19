@@ -42,7 +42,7 @@
 
 ## RESULT:
 
-![][image2]
+![][image2](RESULT.jpeg)
 
 * The project was successfully completed and tested. The red LED glowed using the coin battery, so the project worked successfully.
 
